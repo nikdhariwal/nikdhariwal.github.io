@@ -47,7 +47,7 @@ h2 {
 	font-weight: bold;
 }
 .rbox > div {
-	border: 1px solid black;
+	border: 0.5px solid black;
 }
 h3 {
 	font-size: 12px;
@@ -60,4 +60,8 @@ h4 {
 .footer-link{
 	display: block;
 	font-size: 12px;
+}
+.cimg {
+	max-height: 550px;
+	overflow: hidden;
 }
